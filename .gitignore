@@ -3,3 +3,4 @@ output/
 wandb/
 *.ckpt
 __pycache__/
+outputs/
